@@ -9,6 +9,7 @@
     color: rgb(247, 207, 121);
 } */
 
+
 img{
     max-width: 100%;
     border-color: #BFB5AF;
@@ -20,7 +21,9 @@ img{
 .primary-colour button{
     box-shadow: 7px 8px 10px;
     top: -10px;
-    border-color: #BFB5AF;
+    margin: 10px 15px 10px 9px;
+    border-color: #A26769;
+    border-width: 9px;
     left: 25%;
     color: #582C4D
 }
