@@ -1,13 +1,6 @@
 *{
     background-color: #D5B9B2;
 }
-
-/* /* .mb-3 button, btn-outline-success, button{
-    box-shadow: 0px 1px 0px;
-    top: -3px;
-    left: 15px;
-    color: rgb(247, 207, 121);
-} */
 img{
     max-width: 100%;
     border-color: #BFB5AF;
@@ -20,18 +13,27 @@ img{
     box-shadow: 7px 8px 10px;
     top: -10px;
     margin: 10px 15px 10px 9px;
-    border-color: #A26769;
     border-width: 9px;
     left: 25%;
+    padding: 1% 3%;
+    border-style:dotted;
     color: #582C4D
 }
 
+ .primary-colour :hover{
+    background-color: #582C4D ;
+    border-radius: 9cqb;
+    
+    text-shadow: 4px 3px  #D5B9B2;
+}
+
+
 .navigationbar{
-    box-shadow: #ECE2D0;
+    box-shadow: #A26769;
     font-weight: 900;
     margin: auto;
-     width: 75%;
-     padding: 20px;
+     width: 85%;
+     padding: 12 10 20px;
     font-style:italic;
     color-scheme: #A26769;
 }
